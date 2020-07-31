@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Soma Muthumanickam and I work as the Lead Software Architect for Self-Driving Cars at ZF.
+
+- 🔭 I specialize in System Design, Software Architecture, AI and Machine Learning.
+- 🌱 I’m currently learning Flutter & App-Development.
+- ⚡ Currently working on a Knowledge Management App.
+- 😄 Get in touch if we have similar interests and would like to collaborate.
+
 <!--
 **soma-m/soma-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
